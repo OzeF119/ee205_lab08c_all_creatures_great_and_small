@@ -9,9 +9,9 @@
 /// @date   13_Mar_2022
 ///////////////////////////////////////////////////////////////////////////////
 
-#include <iostream>
+#include "Animal.h"
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+using namespace std;
+
+const string Animal::kingdom = "Animalia";
+
