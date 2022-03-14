@@ -8,8 +8,7 @@
 /// @author Oze Farris <ofarris@hawaii.edu>
 /// @date   13_Mar_2022
 ///////////////////////////////////////////////////////////////////////////////
-#ifndef EE205_LAB08C_ALL_CREATURES_GREAT_AND_SMALL_ANIMAL_H
-#define EE205_LAB08C_ALL_CREATURES_GREAT_AND_SMALL_ANIMAL_H
+
 #pragma once
 
 #include <string>
@@ -56,4 +55,4 @@ protected:
 private:
     void setSpecies( const std::string newSpecies);
 };
-#endif //EE205_LAB08C_ALL_CREATURES_GREAT_AND_SMALL_ANIMAL_H
+
